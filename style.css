@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Paytone+One&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.page-wrapper{
+    width: 905px;
+    margin: 0 auto;
+  
+}
+.header, footer{
+    padding: 1px;
+    height: 182px;
+   ;
+}
+.main{
+    height: 1872px;
+    font-size: 0;
+}
+.card{
+    display: inline-block;
+    height: 516px;
+    width: 420px;
+}
+.card{
+    width: 420px; 
+    margin-top: -30px;
+}
+
+
+
+
+.drit{
+    width: 420px;
+   margin-top: -5px;
+}
+.fours{
+    height: 280px;
+    width: 420px;
+}
+.first{
+    height: 280px;
+    width: 420px;
+}
+.second{
+    height: 280px;
+    width: 420px;
+    margin-top: 30px;
+}
+
+
+
+
+
+.right{
+    margin-left: 65px;
+}
+.long{
+    height: 546px;
+}
+.card:nth-child(3), .card:nth-child(4){
+    margin-top: 130px; 
+}
+.card:nth-child(5), .card:nth-child(6){ 
+    margin-top: 126px; 
+}
+.nav{
+    width: 554px;
+    height: 30px;
+    margin: 68px auto 0;
+}
+.menu{
+    font-size: 0;
+}
+.list-item{
+    display: inline-block;
+    font-size: 14px;
+    margin-left: 97px;
+    line-height: 30px;
+}
+.list-item:nth-child(1){
+    margin-left: 0;
+}
+.card-img{
+    width: 420px;
+    height: 280px;
+}
+.section-name{
+margin-top: 32px;
+font-size: 14px;
+}
+.card:nth-child(1) .section-name, .card:nth-child(2) .section-name{
+    margin-top: 62px;
+    color: #000;
+    }
+
+
+.section-text{
+    font-size: 13px;
+    margin-top: 39px;
+}
+.section-title{
+    font-size: 30px;
+    margin-top: 32px;
+    font-family: 'Paytone One', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+.footer{
+    font-size: 1px;
+    margin: 0 auto;
+    padding: 58px;
+}
+.button{
+color: #000;
+
+font-family: 'Paytone One', sans-serif;
+font-family: 'Playfair Display', serif;
+
+border: 2px solid #000;
+width: 170px;
+height: 60px;
+margin-left:-19px ;
+}
+
